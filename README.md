@@ -12,8 +12,7 @@ Additional description about the project and its features.
 ## Built With
 
 - Languages: HTML, CSS, Ruby and JavaScript.
-- Framework: Bootstrap
-- Tecnologies: RoR
+- Framework: RoR
 
 ## Live Demo
 
